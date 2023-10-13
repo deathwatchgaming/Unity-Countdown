@@ -16,7 +16,12 @@ public class CountDown : MonoBehaviour
     public string SceneToLoad;
 
     // Public - Text Mesh Pro - Start Timer
+    
+    // Specific within a UI.Canvas
     public TextMeshProUGUI startTimer;
+
+    // Generic base/parent class for two types
+    //public TMP_Text startTimer;
 
     // Public - Bool - CountDown Enabled = True / Yes
     public bool CountDownEnabled = true;
