@@ -1,0 +1,80 @@
+Suggested Tools:
+________________
+
+
+Free Game Engine Core:
+______________________
+
+* Unity Online: https://unity.com/
+* Unity Engine: https://unity.com/download
+* Unity Hub Desktop: https://unity.com/unity-hub
+
+
+Unity Assets Store:
+___________________
+
+* Assets Store: https://assetstore.unity.com/
+
+
+Free Code Environment:
+______________________
+
+
+* Visual Studio: https://visualstudio.microsoft.com/
+
+
+Free Code Repository Management:
+________________________________
+
+
+* GitHub Online: https://github.com/
+* GitHub Desktop: https://desktop.github.com/
+
+
+Free Documentation Management:
+________________________________
+
+* GitBook: https://www.gitbook.com/
+
+
+Free Code Editor(s):
+____________________
+
+
+* Sublime Text: https://www.sublimetext.com/
+* Visual Studio Code: https://code.visualstudio.com/
+
+
+Free Modeling Editors:
+______________________
+
+
+* Blender: https://www.blender.org/
+* MakeHuman: http://www.makehumancommunity.org/
+* MakeHuman For Blender (MPFB): http://static.makehumancommunity.org/mpfb.html
+
+Also for Blender & worth a look at:
+___________________________________
+
+
+* Buildify - Buildify is a geometry nodes library for easy building creation: https://paveloliva.gumroad.com/l/buildify
+
+* Blosm for Blender - Google 3D cities, OpenStreetMap, terrain: https://prochitecture.gumroad.com/l/blender-osm
+
+* BlenderGIS - Blender addons to make the bridge between Blender and geographic data: https://github.com/domlysz/BlenderGIS
+
+
+Free Graphics Editor:
+_____________________
+
+
+* Gimp: https://www.gimp.org/
+
+
+Other Online Sources:
+_____________________
+
+Scetchfab: https://sketchfab.com/
+
+Mixamo: https://www.mixamo.com/
+
