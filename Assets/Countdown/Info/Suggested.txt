@@ -2,79 +2,258 @@ Suggested Tools:
 ________________
 
 
+NOTE:
+
+ToDo: keep adding to suggested list.
+
+* The point of including the suggested list, is something I was thinking about as a longtime open source developer on various non gaming related projects over the last few decades, many folks used to ask me what sort of tools I would use for this or that and as such how many were free tools say due to their budgetary constraints, as such during those requests I used to write suggested lists related to those subjects and as such, recently I decided to think on and about what sort of list would be viable say for someone either just getting into gaming projects and or long time devs simply wanting a list of various free tools in various subjects relative to various aspects that may pertain to a project as something to help people say starting out or considering what some free tools might be handy to start various aspects related to their project. As such, note: this list may grow!
+
+
 Free Game Engine Core:
 ______________________
 
-* Unity Online: https://unity.com/
-* Unity Engine: https://unity.com/download
-* Unity Hub Desktop: https://unity.com/unity-hub
+
+Unity Online:
+-------------
+
+* https://unity.com/
+
+Unity Engine:
+-------------
+
+* https://unity.com/download
+
+Unity Hub Desktop:
+------------------
+
+* https://unity.com/unity-hub
 
 
-Unity Assets Store:
-___________________
+Unity Assets:
+_____________
 
-* Assets Store: https://assetstore.unity.com/
+
+Assets Store:
+-------------
+
+* https://assetstore.unity.com/
 
 
 Free Code Environment:
 ______________________
 
 
-* Visual Studio: https://visualstudio.microsoft.com/
+Visual Studio:
+--------------
+
+* https://visualstudio.microsoft.com/
 
 
 Free Code Repository Management:
 ________________________________
 
 
-* GitHub Online: https://github.com/
-* GitHub Desktop: https://desktop.github.com/
+GitHub Online:
+--------------
+
+* https://github.com/
+
+GitHub Desktop:
+---------------
+
+* https://desktop.github.com/
 
 
 Free Documentation Management:
 ________________________________
 
-* GitBook: https://www.gitbook.com/
+
+GitBook:
+--------
+
+* https://www.gitbook.com/
 
 
 Free Code Editor(s):
 ____________________
 
 
-* Sublime Text: https://www.sublimetext.com/
-* Visual Studio Code: https://code.visualstudio.com/
+Sublime Text:
+-------------
+
+* https://www.sublimetext.com/
+
+Visual Studio Code:
+-------------------
+
+* https://code.visualstudio.com/
 
 
 Free Modeling Editors:
 ______________________
 
 
-* Blender: https://www.blender.org/
-* MakeHuman: http://www.makehumancommunity.org/
-* MakeHuman For Blender (MPFB): http://static.makehumancommunity.org/mpfb.html
+Blender:
+--------
+
+* https://www.blender.org/
+
+MakeHuman:
+----------
+
+* http://www.makehumancommunity.org/
+
+MakeHuman For Blender (MPFB):
+-----------------------------
+
+* http://static.makehumancommunity.org/mpfb.html
+
 
 Also for Blender & worth a look at:
 ___________________________________
 
 
-* Buildify - Buildify is a geometry nodes library for easy building creation: https://paveloliva.gumroad.com/l/buildify
+Buildify - Buildify is a geometry nodes library for easy building creation:
+---------------------------------------------------------------------------
 
-* Blosm for Blender - Google 3D cities, OpenStreetMap, terrain: https://prochitecture.gumroad.com/l/blender-osm
+* https://paveloliva.gumroad.com/l/buildify
 
-* BlenderGIS - Blender addons to make the bridge between Blender and geographic data: https://github.com/domlysz/BlenderGIS
+Blosm for Blender - Google 3D cities, OpenStreetMap, terrain:
+-------------------------------------------------------------
+
+* https://prochitecture.gumroad.com/l/blender-osm
+
+BlenderGIS - Blender addons to make the bridge between Blender and geographic data:
+-----------------------------------------------------------------------------------
+
+* https://github.com/domlysz/BlenderGIS
 
 
 Free Graphics Editor:
 _____________________
 
 
-* Gimp: https://www.gimp.org/
+Gimp:
+-----
+
+* https://www.gimp.org/
 
 
 Other Online Sources:
 _____________________
 
-Scetchfab: https://sketchfab.com/
 
-Mixamo: https://www.mixamo.com/
+Scetchfab:
+----------
+
+* https://sketchfab.com/
+
+Mixamo:
+-------
+
+* https://www.mixamo.com/
+
+
+Online Info / Tutorials Watching:
+_________________________________
+
+
+Youtube:
+--------
+
+* https://www.youtube.com/
+
+
+Other:
+-------------------
+
+Discussion, Chat, Etc:
+______________________
+
+
+Discord:
+--------
+
+* https://discord.com/
+
+
+Creator Instructions / Supports:
+________________________________
+
+
+Patreon:
+--------
+
+* https://www.patreon.com/
+
+
+
+Screen Capture / Recording for tutorial Creations:
+__________________________________________________
+
+
+* Still need to add these linkages....
+
+
+Local File Tutorial Video Watching:
+___________________________________
+
+
+VLC:
+----
+
+* https://www.videolan.org/vlc/
+
+
+File / Package Management:
+__________________________
+
+
+Windows:
+________
+
+
+7zip:
+-----
+
+* https://7-zip.org/
+
+WinRar:
+-------
+
+* https://www.rarlab.com/download.htm
+
+
+Mac:
+___
+
+
+Keka:
+-----
+
+* https://www.keka.io/en/
+
+
+TheUnArchiver:
+--------------
+
+* https://theunarchiver.com/
+
+
+E-Book / Docs (.epub / .pdf) Lib & Conversions Management:
+__________________________________________________________
+
+
+Calibre:
+--------
+
+* https://calibre-ebook.com/
+
+Note: one simple example reason why using calibre is handy is for example: when projects like lets say "Blender" decide to put out their documentaion download package as .epub, mkay, that is all dandy but when say you tend to use pdf, this creates a problem, why? because the epub is 8582 pages and approx 250+mb in size, thus most online convertors will not convert this due to size allotments, thus the simple solution is to take the epub and use the free calibre software to convert it! Also this is a simple free and handy tool for managing your epub and or pdf ebooks library via your comp.
+
+
+Adobe Acrobat Reader:
+---------------------
+
+* https://get.adobe.com/reader/
 
