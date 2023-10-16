@@ -257,3 +257,96 @@ Adobe Acrobat Reader:
 
 * https://get.adobe.com/reader/
 
+
+Suggested Browser Stuff:
+________________________
+
+
+* I know, I know, while many use various browsers and I could suggest plenty as I use a few when testing responsive stuff or browser specific issues when doing web development type projects, let us also note that I am rather old-school, so I tend to stick loyally with softs / products that I have used for decades and as such the mozilla project is one I have stuck with since the start of their journey man many years ago! As such, lets suggest such: 
+
+
+Firefox Developer Edition:
+__________________________
+
+* https://www.mozilla.org/en-US/firefox/developer/
+
+
+Just a handy site location and IP related infd Addon for start:
+______________________________________________________________
+
+
+FlagFox:
+________
+
+Handy for seeing sites location, ip, whois, etc etc.
+
+
+* https://addons.mozilla.org/en-US/firefox/addon/flagfox/
+
+
+Just a few handy Web Development related Addons for start:
+__________________________________________________________
+
+
+Web Developer Addon:
+____________________
+
+Handy for various needs when developing your project site.
+
+* https://addons.mozilla.org/en-US/firefox/addon/web-developer/
+
+
+ColorZilla:
+___________
+
+Handy for hex when developing your project site.
+
+
+* https://addons.mozilla.org/en-US/firefox/addon/colorzilla/
+
+
+Awesome Screenshot:
+___________________
+
+Such is handy when needing to capture screen areas for say tutorials or support.
+
+
+* https://addons.mozilla.org/en-US/firefox/addon/screenshot-capture-annotate/
+
+
+Just a few handy Video Download related Addons for start:
+__________________________________________________________
+
+
+Easy Youtube Video Downloader:
+______________________________
+
+Such is handy when you need to say grab tutorial vids or what not for offline viewing.
+
+
+* https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/
+
+
+Video DownloadHelper:
+_____________________
+
+Such is handy when you need to say grab tutorial vids or what not for offline viewing.
+
+
+* https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/
+
+
+Suggested FTP Management:
+_________________________
+
+As most likely eventually you will make a project related website and want to transfer files to such...
+
+
+FileZilla:
+__________
+
+Such is handy when you need to say upload, edit, remove or change chmod for files while building your site, and is free and simple in comparison to other tools that may be more complicated for you, thus why I will always suggest FileZilla!
+
+
+* https://filezilla-project.org/
+
