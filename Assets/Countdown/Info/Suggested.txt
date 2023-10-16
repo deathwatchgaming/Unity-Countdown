@@ -350,3 +350,90 @@ Such is handy when you need to say upload, edit, remove or change chmod for file
 
 * https://filezilla-project.org/
 
+
+
+Essential lang(s) to learn for starters:
+________________________________________
+
+
+
+Game Dev side of things (for starters):
+_______________________________________
+
+NOTE: these are provided as simple suggestions and are simply just the basics that one should plan to start to learn for basic development skillsets after learning these such basics, alot of of others will begin to make more sense and open the door to whatever paths and directions one may choose to expand upon from there....
+
+
+C#:
+________
+
+* https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+
+
+Web development side of things:
+_______________________________
+
+NOTE: these are provided as simple suggestions and are simply just the basics that one should plan to start to learn for basic web development skillsets if one plans to say build their project site or even begin to continue further and say build their own cos or softs related to say their projects..., after learning these such basics, alot of of others will begin to make sense and open the door to whatever paths and directions one may choose to expand upon from there....
+
+
+CSS:
+____
+
+
+* https://en.wikipedia.org/wiki/CSS
+
+
+HTML:
+_____
+
+
+* https://en.wikipedia.org/wiki/HTML
+
+* https://en.wikipedia.org/wiki/HTML5
+
+
+JS:
+___
+
+
+* https://en.wikipedia.org/wiki/JavaScript
+
+
+jQuery:
+_______
+
+
+* https://en.wikipedia.org/wiki/JQuery
+
+
+jSon:
+_____
+
+
+* https://en.wikipedia.org/wiki/JSON
+
+
+XML:
+____
+
+
+* https://en.wikipedia.org/wiki/XML
+
+
+PHP:
+____
+
+
+* https://en.wikipedia.org/wiki/PHP
+
+
+
+MySQL / MySQLi:
+_______________
+
+
+* https://en.wikipedia.org/wiki/MySQL
+
+* https://en.wikipedia.org/wiki/MySQLi
+
+
+Etc, etc.....
