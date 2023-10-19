@@ -6,7 +6,19 @@ NOTE:
 
 ToDo: keep adding to suggested list.
 
-* The point of including the suggested list, is something I was thinking about as a longtime open source developer on various non gaming related projects over the last few decades, many folks used to ask me what sort of tools I would use for this or that and as such how many were free tools say due to their budgetary constraints, as such during those requests I used to write suggested lists related to those subjects and as such, recently I decided to think on and about what sort of list would be viable say for someone either just getting into gaming projects and or long time devs simply wanting a list of various free tools in various subjects relative to various aspects that may pertain to a project as something to help people say starting out or considering what some free tools might be handy to start various aspects related to their project. As such, note: this list may grow!
+* The point of including the suggested list, is something I was thinking about
+  as a longtime open source developer on various non gaming related projects
+  over the last few decades, many folks used to ask me what sort of tools I
+  would use for this or that and as such how many were free tools say due to
+  their budgetary constraints, as such during those requests I used to write
+  suggested lists related to those subjects and as such, recently I decided
+  to think on and about what sort of list would be viable say for someone
+  either just getting into gaming projects and or long time devs simply
+  wanting a list of various free tools in various subjects relative to
+  various aspects that may pertain to a project as something to help people
+  say starting out or considering what some free tools might be handy to
+  start various aspects related to their project. As such, note: this list
+  may grow!
 
 
 Free Game Engine Core:
@@ -123,7 +135,8 @@ Blosm for Blender - Google 3D cities, OpenStreetMap, terrain:
 
 * https://prochitecture.gumroad.com/l/blender-osm
 
-BlenderGIS - Blender addons to make the bridge between Blender and geographic data:
+BlenderGIS - Blender addons to make the bridge between Blender and geographic
+data:
 -----------------------------------------------------------------------------------
 
 * https://github.com/domlysz/BlenderGIS
@@ -249,7 +262,14 @@ Calibre:
 
 * https://calibre-ebook.com/
 
-Note: one simple example reason why using calibre is handy is for example: when projects like lets say "Blender" decide to put out their documentaion download package as .epub, mkay, that is all dandy but when say you tend to use pdf, this creates a problem, why? because the epub is 8582 pages and approx 250+mb in size, thus most online convertors will not convert this due to size allotments, thus the simple solution is to take the epub and use the free calibre software to convert it! Also this is a simple free and handy tool for managing your epub and or pdf ebooks library via your comp.
+Note: one simple example reason why using calibre is handy is for example:
+when projects like lets say "Blender" decide to put out their documentaion
+download package as .epub, mkay, that is all dandy but when say you tend to
+use pdf, this creates a problem, why? because the epub is 8582 pages and
+approx 250+mb in size, thus most online convertors will not convert this due
+to size allotments, thus the simple solution is to take the epub and use the
+free calibre software to convert it! Also this is a simple free and handy
+tool for managing your epub and or pdf ebooks library via your comp.
 
 
 Adobe Acrobat Reader:
@@ -262,7 +282,13 @@ Suggested Browser Stuff:
 ________________________
 
 
-* I know, I know, while many use various browsers and I could suggest plenty as I use a few when testing responsive stuff or browser specific issues when doing web development type projects, let us also note that I am rather old-school, so I tend to stick loyally with softs / products that I have used for decades and as such the mozilla project is one I have stuck with since the start of their journey man many years ago! As such, lets suggest such: 
+* I know, I know, while many use various browsers and I could suggest plenty
+  as I use a few when testing responsive stuff or browser specific issues
+  when doing web development type projects, let us also note that I am rather
+  old-school, so I tend to stick loyally with softs / products that I have
+  used for decades and as such the mozilla project is one I have stuck with
+  since the start of their journey man many years ago! As such, lets suggest
+  such: 
 
 
 Firefox Developer Edition:
@@ -308,7 +334,8 @@ Handy for hex when developing your project site.
 Awesome Screenshot:
 ___________________
 
-Such is handy when needing to capture screen areas for say tutorials or support.
+Such is handy when needing to capture screen areas for say tutorials or
+support.
 
 
 * https://addons.mozilla.org/en-US/firefox/addon/screenshot-capture-annotate/
@@ -321,7 +348,8 @@ __________________________________________________________
 Easy Youtube Video Downloader:
 ______________________________
 
-Such is handy when you need to say grab tutorial vids or what not for offline viewing.
+Such is handy when you need to say grab tutorial vids or what not for offline
+viewing.
 
 
 * https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/
@@ -330,7 +358,8 @@ Such is handy when you need to say grab tutorial vids or what not for offline vi
 Video DownloadHelper:
 _____________________
 
-Such is handy when you need to say grab tutorial vids or what not for offline viewing.
+Such is handy when you need to say grab tutorial vids or what not for offline
+viewing.
 
 
 * https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/
@@ -339,13 +368,17 @@ Such is handy when you need to say grab tutorial vids or what not for offline vi
 Suggested FTP Management:
 _________________________
 
-As most likely eventually you will make a project related website and want to transfer files to such...
+As most likely eventually you will make a project related website and want to
+transfer files to such...
 
 
 FileZilla:
 __________
 
-Such is handy when you need to say upload, edit, remove or change chmod for files while building your site, and is free and simple in comparison to other tools that may be more complicated for you, thus why I will always suggest FileZilla!
+Such is handy when you need to say upload, edit, remove or change chmod for
+files while building your site, and is free and simple in comparison to other
+tools that may be more complicated for you, thus why I will always suggest
+FileZilla!
 
 
 * https://filezilla-project.org/
@@ -360,7 +393,11 @@ ________________________________________
 Game Dev side of things (for starters):
 _______________________________________
 
-NOTE: these are provided as simple suggestions and are simply just the basics that one should plan to start to learn for basic development skillsets after learning these such basics, alot of of others will begin to make more sense and open the door to whatever paths and directions one may choose to expand upon from there....
+NOTE: these are provided as simple suggestions and are simply just the basics
+that one should plan to start to learn for basic development skillsets after
+learning these such basics, alot of of others will begin to make more sense
+and open the door to whatever paths and directions one may choose to expand
+upon from there....
 
 
 C#:
@@ -379,7 +416,13 @@ ____
 Web development side of things:
 _______________________________
 
-NOTE: these are provided as simple suggestions and are simply just the basics that one should plan to start to learn for basic web development skillsets if one plans to say build their project site or even begin to continue further and say build their own cos or softs related to say their projects..., after learning these such basics, alot of of others will begin to make sense and open the door to whatever paths and directions one may choose to expand upon from there....
+NOTE: these are provided as simple suggestions and are simply just the basics
+that one should plan to start to learn for basic web development skillsets if
+one plans to say build their project site or even begin to continue further
+and say build their own cos or softs related to say their projects..., after
+learning these such basics, alot of of others will begin to make sense and
+open the door to whatever paths and directions one may choose to expand upon
+from there....
 
 
 CSS:
