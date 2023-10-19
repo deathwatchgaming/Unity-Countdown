@@ -10,3 +10,20 @@ Primarily, this simple script simply allows you to add a visible display CountDo
 
 
 Simple manual setup details can be found in the DIR: "Info" via ReadMe.txt
+
+
+ EXTRAS:
+---------
+
+
+ TestStuff Controller
+-------------------------
+
+Description:
+
+ Most example instructions need some sort of test plane / terrain and characterController to test out, thus one would not be able to test such if they do not already have one to test stufff with. As such provided here is just a simple 
+ testercontroller for testing stuff if the end-user needs such and does not already have something.
+
+Setup Info:
+
+ Simple manual setup details can be found in the related DIR: "Info" via TestStuff_ReadMe.txt
