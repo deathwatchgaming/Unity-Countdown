@@ -23,8 +23,8 @@ Primarily, this simple script simply allows you to add a visible display CountDo
 
 Description:
 
- Most example instructions need some sort of test plane / terrain and characterController to test out, thus one would not be able to test such if they do not already have one to test stufff with. As such provided here is just a simple 
- testercontroller for testing stuff if the end-user needs such and does not already have something.
+ Most example instructions need some sort of "test plane / terrain" and a "characterController" to test things out, thus one would not be able to test such if they do not already have one to test stuff with. As such, provided here is just a simple 
+ "tester controller" provided for testing stuff if the end-user needs such and does not already have something.
 
 Setup Info:
 
