@@ -1,19 +1,19 @@
 // Using - Engine - System - TMPro 
 using System.Collections;
-using UnityEngine;
 using System;
+using UnityEngine;
 using TMPro;
 
 // For Example: Switch Scene
 // Using - Scene Management
 using UnityEngine.SceneManagement;
 
-// Namespace - DWG.Countdown
-namespace DWG.Countdown
+// Namespace - DWG.CountDownTMP
+namespace DWG.CountDownTMP
 {
 
-    // Public - Class - CountDown
-    public class CountDown : MonoBehaviour
+    // Public - Class - CountDownTMP
+    public class CountDownTMP : MonoBehaviour
     {
         // For Example: Switch Scene
         // Public - String - Scene To Load
@@ -28,7 +28,10 @@ namespace DWG.Countdown
         //public TMP_Text startTimer;
 
         // Public - Bool - CountDown Enabled = True / Yes
-        public bool CountDownEnabled = true;
+        //public bool CountDownEnabled = true;
+
+        // Public - Bool - CountDown Enabled = False / No
+        public bool CountDownEnabled = false;        
 
         // Public - Event - Action - Integer - Count Down Counter
         public event Action<int> countDownCounter;
@@ -55,10 +58,16 @@ namespace DWG.Countdown
                 // Start Coroutine - Timer To Start
                 StartCoroutine(TimerToStart());
 
+                // startTimer - gameObject - Set Active - True
+                startTimer.gameObject.SetActive(true);
+
+                // GetComponent - CountDownTMP - Enabled - True
+                GetComponent<CountDownTMP>().enabled = true;
+
                 // Debug - CountDown - Status
 
                 // Debug Log - CountDown Is Enabled
-                Debug.Log("The countdown is enabled.");
+                Debug.Log("The (TMP) countdown is enabled.");
 
             } // Close - If CountDown Enabled
 
@@ -66,8 +75,14 @@ namespace DWG.Countdown
             else if (CountDownEnabled == false)
             {
 
+                // startTimer - gameObject - Set Active - False
+                startTimer.gameObject.SetActive(false);
+
+                // GetComponent - CountDownTMP - Enabled - False
+                GetComponent<CountDownTMP>().enabled = false;
+
                 // Debug Log - CountDown Is Disabled
-                Debug.Log("The countdown is disabled.");
+                Debug.Log("The (TMP) countdown is disabled.");
 
             } // Close - Else If CountDown Is Disabled
 
@@ -96,7 +111,7 @@ namespace DWG.Countdown
                 // Debug - CountDown - Status
 
                 // Debug Log - CountDown Is Running
-                Debug.Log("The countdown is running.");
+                Debug.Log("The (TMP) countdown is running.");
 
             } // Close - While - Count Down Time - Greater Than 0
 
@@ -119,7 +134,7 @@ namespace DWG.Countdown
             startTimer.gameObject.SetActive(false);
 
             // Debug Log - The CountDown Completed
-            Debug.Log("The countdown has completed.");
+            Debug.Log("The (TMP) countdown has completed.");
 
             // Lets Do Something Just Here For Example
             Debug.Log("Ok, lets do something here.");
@@ -134,6 +149,6 @@ namespace DWG.Countdown
 
         } // Close - Void - After Timer
 
-    } // Close - Public - Class - CountDown
+    } // Close - Public - Class - CountDownTMP
 
-} // Close - Namespace - DWG.Countdown
+} // Close - Namespace - DWG.CountDownTMP

@@ -1,10 +1,10 @@
-CountDown (Text Mesh Pro)
+CountDown (Text Legacy)
 -----------------------------------
 
 Description:
 
 Primarily, this simple script simply allows you to add a visible display
-CountDown in your scene UI Canvas via TexMeshPro that counts down seconds to
+CountDown in your scene UI Canvas via Text (Legacy) that counts down seconds to
 completion and then at the end of said countdown to do something if you
 choose to define something to do or not. For example we switch scenes but
 this can be anything you want, and this example part can be commented out if
@@ -51,9 +51,9 @@ instead just opt to just create a UI Canvas, up to you.)
 
 1.B) Create: in UI -> Canvas (unless you already have a UI Canvas)
 
-2) Create inside UI Canvas as child: -> Text Mesh Pro (TMP)
+2) Create inside UI Canvas as child: -> Text (Legacy)
 
-Rename it to: CountDown Text (TMP)
+Rename it to: CountDown Text (Legacy)
 
 Details:
 
@@ -63,33 +63,37 @@ Position: X: 0 Y: -50 Z: 0
 
 Width: 200  Height: 50
 
-TextMesh Pro - Text UI: -> Text Input: lets say 15 just for scene tab viewing
+Text Legacy - Text UI: -> Text Input: lets say 15 just for scene tab viewing
 display example.
 
-Font: Liberation Sans SDF
+Font: Legacy Runtime
 
-Material Preset: Liberation Sans SDF - Drop Shadow
+Font Style: Bold
 
-Text Style: Bold
-
-Text Size: 46
-
-Vertex Color Hex: #DD1C1C
+Font Size: 46
 
 Font Alignment: Center & Middle
 
-3) On that CountDown Text (TMP)  -> Inspector: 
+Horizontal Overflow: Overflow
+Vertical Overflow: Overflow
 
-Add Script: CountDown.cs
+Color Hex: #DD1C1C
+
+3) On that CountDown Text (Legacy)  -> Inspector: 
+
+Add Script: CountDownLegacy.cs
 
 4) Ok, now view in inspector the added scipt:
 
-"Script": Count Down (Script)
+"Script": Count Down Legacy (Script)
 
 By default it should look like:
 
-Script: CountDown.cs Scene To Load: Start Timer: Count Down Enabled: Countdown
-Time:
+Script: CountDownLegacy.cs 
+Scene To Load: 
+Start Timer: 
+Count Down Enabled: 
+Countdown Time:
 
 5) Add desired switch to "Scene Name" in corresponding input textarea:
 
@@ -101,12 +105,21 @@ ie:
 
 Select:
 
-CountDown Text (TMP) (Text)
+CountDown Text (Legacy)
 
 7) You can ignore the checked "Count Down Enabled" check box unless you want
 to disable the CountDown
 
 8) Add your "CountDown Time": For example lets say add 15 say for 15 seconds.
+
+
+By now it should look somthing like:
+
+Script: CountDownLegacy.cs 
+Scene To Load: Demo Switched
+Start Timer: CountDown Text (Legacy)
+Count Down Enabled: Yes
+Countdown Time: 15
 
  
 Alright that is it for setup! Simple enough, right?!
