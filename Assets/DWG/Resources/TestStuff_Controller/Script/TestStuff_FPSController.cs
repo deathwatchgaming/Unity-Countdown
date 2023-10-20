@@ -1,8 +1,8 @@
 ﻿// Using - Engine
 using UnityEngine;
 
-// Namespace - UBRS.TestStuff_FPSController
-namespace UBRS.TestStuff_FPSController
+// Namespace - DWG.TestStuff_FPSController
+namespace DWG.TestStuff_FPSController
 {
 
     // Require - Component - CharacterController
@@ -294,4 +294,4 @@ namespace UBRS.TestStuff_FPSController
 
     } // Close - Public - Class - TestStuff_FPSController
 
-} // Close - Namespace - TestStuff_FPSController
+} // Close - Namespace - DWG.TestStuff_FPSController
