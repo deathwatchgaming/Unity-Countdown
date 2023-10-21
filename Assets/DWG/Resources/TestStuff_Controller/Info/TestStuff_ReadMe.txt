@@ -30,7 +30,7 @@ let us go ahead & drag the "Directional Light" into "Environment".
 * also if you wanted you could add a "dir" called Environment and opt 
   to place your TerrainData inside that in its own Dir "TerrainData",
   and as such any other Environment stuff respectively in as desired
-  the "Environment". Just a suggestion. 
+  the "Environment" dir. Just a suggestion.
 
 Also: We don't need the "Main Camera" in Sample Scene, so..., 
 we can go ahead and delete it.
@@ -95,6 +95,8 @@ ____________________________________________________________________
 In "FPSController" Create: 3D Object "Capsule" And Rename To: 
 
 "Player Capsule"
+
+Remove "Capsule Collider" from: "Player Capsule"
 
 Position: X: 0 Y: 1 Z: 0
 Rotation: X: 0 Y: 0 Z: 0
