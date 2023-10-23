@@ -1,0 +1,110 @@
+_______________________________________________________________________________
+
+Suggested Unity Editor Layout (Panels & Tabs):
+_______________________________________________________________________________
+
+Description: These are just some layout suggestions.
+
+-------------------------------------------------------------------------------
+Left:
+-------------------------------------------------------------------------------
+
+Hierarchy Tab
+
+Console Tab
+
+-------------------------------------------------------------------------------
+Middle (Top):
+-------------------------------------------------------------------------------
+
+Scene Tab
+
+Game Tab
+
+-------------------------------------------------------------------------------
+Middle (Bottom):
+-------------------------------------------------------------------------------
+
+Project Tab
+
+Animation Tab
+
+Animator Tab
+
+Audio Mixer Tab
+
+Timeline Tab
+
+Game Tab 
+
+Scene Tab
+
+-------------------------------------------------------------------------------
+Right:
+-------------------------------------------------------------------------------
+
+Inspector Tab
+
+Lighting Tab
+
+_______________________________________________________________________________
+
+Note(s):
+_______________________________________________________________________________
+
+Things to change. Perhaps you may adjust more as you personalize this further
+fopr your specific usages....
+
+
+Having 2(X) Game Tab(s) and Scene Tab(s) may be one part that may be taking
+some getting used to and is not placed there to say use Middle (Top) and
+Middle(Bottom) on same tabs at same time. I add these simply so one can
+transition top and bottom depending on tasks at hand. Also note: I tend to
+prefer Game tab Displayed Middle (Top) and the second scene tab displayed
+Middle (Bottom) by default for this layout and vis versa on transition as
+simply put, having 2(X) for each tab allows you transition while say viewing
+some other tabs and such when needed.
+
+
+Also, since I am currently restricted to dev work using an older smaller
+screen 13" MBP currently due to budgetary constraints, I tend to work both
+within the constraints of that small screen when needed and then also when
+possible simply hook the old small laptop up to a hdmi tv and use such as a
+secondary display for unity while using the comp screen for ide / code
+editor, etc, etc, thus the reason for my next suggestion: being that I make 2
+variations of this layout: one for when I am using on small screen and one
+with similar layout but for when using on my hdmi tv screen. 
+
+Ie: 
+
+MySSLayout 
+MyTVLayout 
+
+Hopefully that all makes sense. :)
+
+-------------------------------------------------------------------------------
+Edit Game Tab Display: *
+-------------------------------------------------------------------------------
+
+* Change from free aspect to: 1920 x 1080 (for both game tabs)
+
+-------------------------------------------------------------------------------
+Edit Console Tab: *
+-------------------------------------------------------------------------------
+
+* Disable: Timestamp
+
+* Change Font to: Monospace
+
+* Change Log Line to: 1
+
+-------------------------------------------------------------------------------
+Last Steps:
+-------------------------------------------------------------------------------
+
+Save Layout.
+
+Save Layout to File.
+
+
+Thats it! Best of luck!
