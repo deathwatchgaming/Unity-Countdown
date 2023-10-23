@@ -75,6 +75,11 @@ editor, etc, etc, thus the reason for my next suggestion: being that I make 2
 variations of this layout: one for when I am using on small screen and one
 with similar layout but for when using on my hdmi tv screen. 
 
+Also note: simply that by the way I have things setup for Middle (Top) and
+Middle (Bottom), that this is handy so I can simply at times drag resize one
+down larger and up smaller or up larger and udown smaller when needs
+require.
+
 Ie: 
 
 MySSLayout 
