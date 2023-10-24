@@ -101,6 +101,38 @@ Visual Studio Code:
 * https://code.visualstudio.com/
 
 
+
+Suggested basic base extensions for VS Code:
+____________________________________________
+
+
+C#:
+---
+
+* https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
+
+
+.NET Runtime Install Tool:
+--------------------------
+
+* https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime
+
+
+C# Dev Kit:
+-----------
+
+* https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
+
+
+IntelliCode for C# Dev Kit:
+---------------------------
+
+* https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp
+
+
+etc, etc...
+
+
 Free Modeling Editors:
 ______________________
 
@@ -125,6 +157,11 @@ Also for Blender & worth a look at:
 ___________________________________
 
 
+Mixamo for Blender Addon:
+---------------------------------------------------------------------------
+
+* https://substance3d.adobe.com/plugins/mixamo-in-blender/
+
 Buildify - Buildify is a geometry nodes library for easy building creation:
 ---------------------------------------------------------------------------
 
@@ -140,6 +177,20 @@ data:
 -----------------------------------------------------------------------------------
 
 * https://github.com/domlysz/BlenderGIS
+
+
+FBX Import Issues with Blender?
+_______________________________
+
+
+Autodesk FBX Converter:
+-----------------------
+
+Ever find having trouble with some .FBX files failing import to Blender and
+error notice states issues with ascii fbx files? You can sort that out often
+times by grabbing the old free fbx convertor from the autodesk archives.
+
+* https://www.autodesk.com/developer-network/platform-technologies/fbx-converter-archives
 
 
 Free Graphics Editor:

@@ -69,15 +69,15 @@ some other tabs and such when needed.
 Also, since I am currently restricted to dev work using an older smaller
 screen 13" MBP currently due to budgetary constraints, I tend to work both
 within the constraints of that small screen when needed and then also when
-possible simply hook the old small laptop up to a hdmi tv and use such as a
-secondary display for unity while using the comp screen for ide / code
+possible simply hook the old small laptop up to a HDMI TV and use such as a
+secondary display for unity while using the comp screen for IDE / code
 editor, etc, etc, thus the reason for my next suggestion: being that I make 2
 variations of this layout: one for when I am using on small screen and one
-with similar layout but for when using on my hdmi tv screen. 
+with similar layout but for when using on my HDMI TV screen. 
 
 Also note: simply that by the way I have things setup for Middle (Top) and
 Middle (Bottom), that this is handy so I can simply at times drag resize one
-down larger and up smaller or up larger and udown smaller when needs
+down larger and up smaller or up larger and down smaller when needs
 require.
 
 Ie: 
