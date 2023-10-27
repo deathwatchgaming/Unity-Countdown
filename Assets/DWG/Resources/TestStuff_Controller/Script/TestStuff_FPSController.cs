@@ -63,7 +63,8 @@ namespace DWG.TestStuff_FPSController
         CharacterController characterController;
 
         // Vector3 - moveDirection
-        Vector3 moveDirection = Vector3.zero;
+        [HideInInspector]
+        public Vector3 moveDirection = Vector3.zero;
 
         // Float - rotationX
         float rotationX = 0;

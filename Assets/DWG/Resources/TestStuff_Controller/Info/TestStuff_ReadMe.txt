@@ -131,12 +131,47 @@ Script: "TestStuff_FPSController.cs"
 Modify In "FPSController" Inspector, The Component: 
 "Test Stuff_FPS Controller (Script)" -> Player Camera: "Player Camera"
 
+____________________________________________________________________
+
+Step 8:
+____________________________________________________________________
+
+Now Attach The TestStuff_HeadBobber, Component / Script To: 
+
+ In "FPSController" -> "Player Camera" 
+
+ Script: "TestStuff_HeadBobber.cs"
+
+ Next, Modify In: "FPSController" -> Player Camera Inspector, 
+ The Component: 
+
+"Test Stuff_HeadBobber (Script)"
+
+Script: TestStuff_HeadBobber
+Walking Bobbing Speed: 14
+Bobbing Amount: 0.05
+Controller: FPSController (Test Stuff_FPS Controller)
+
+
+----------------------------------------------------------------------
+
+Note: on Wall Jumping 
+
+----------------------------------------------------------------------
+
+* You must a new layer named "Wall" for any such objects that you 
+  desire to allow being able to be wall-jumped off of.
+
+
+----------------------------------------------------------------------
 
 Final Note:
+
 ----------------------------------------------------------------------
 
 * That is it, simple enough, right?! So now you have a very simple test 
   area and tester controller so that you can test whatever.
 
   Best of Luck!
+
 
