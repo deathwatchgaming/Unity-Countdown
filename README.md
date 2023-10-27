@@ -23,6 +23,12 @@ Primarily, this simple script simply allows you to add a visible display CountDo
  TestStuff Controller
 -------------------------
 
+
+ Note: while this was included in this repo, it has now been removed from this repository and placed in its own repo found at:
+
+ https://github.com/deathwatchgaming/Unity-TestStuff_FPSController
+
+
 Description:
 
  Most example instructions need some sort of "test plane / terrain" and a "characterController" to test things out, thus one would not be able to test such if they do not already have one to test stuff with. As such, provided here is just a simple 
@@ -32,8 +38,7 @@ Setup Info:
 
  Simple manual setup details can be found in the related DIR: "Info" via TestStuff_ReadMe.txt
 
- https://github.com/deathwatchgaming/Unity-Countdown/blob/main/Assets/DWG/Resources/TestStuff_Controller/Info/TestStuff_ReadMe.txt
-
+ https://github.com/deathwatchgaming/Unity-TestStuff_FPSController/blob/main/Assets/DWG/UBRS/Resources/TestStuff_FPSController/Info/TestStuff_FPSControllerReadMe.txt
 
  Suggestions:
 --------------
