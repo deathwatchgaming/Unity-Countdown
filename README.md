@@ -11,9 +11,9 @@ Primarily, this simple script simply allows you to add a visible display CountDo
 
  Simple manual setup details can be found in the DIR: "Info" via ReadMeLegacy.txt & ReadMeTMP.txt
 
- https://github.com/deathwatchgaming/Unity-Countdown/blob/main/Assets/DWG/Resources/UI/Countdown/Info/ReadMeLegacy.txt
+ https://github.com/deathwatchgaming/Unity-Countdown/blob/main/Assets/DWG/UBRS/Resources/UI/Countdown/Info/ReadMeLegacy.txt
 
- https://github.com/deathwatchgaming/Unity-Countdown/blob/main/Assets/DWG/Resources/UI/Countdown/Info/ReadMeTMP.txt
+ https://github.com/deathwatchgaming/Unity-Countdown/blob/main/Assets/DWG/UBRS/Resources/UI/Countdown/Info/ReadMeTMP.txt
 
 
  EXTRAS:
@@ -43,4 +43,4 @@ Setup Info:
  Suggestions:
 --------------
 
- https://github.com/deathwatchgaming/Unity-Countdown/blob/main/Assets/DWG/Resources/UI/Countdown/Info/Suggested.txt
+ https://github.com/deathwatchgaming/Unity-Countdown/blob/main/Assets/DWG/UBRS/Resources/UI/Countdown/Info/Suggested.txt

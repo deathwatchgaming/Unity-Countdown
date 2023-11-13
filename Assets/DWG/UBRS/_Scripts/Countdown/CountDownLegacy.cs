@@ -1,31 +1,35 @@
-// Using - Engine - System - TMPro 
+/*
+*
+*  Name: DWG Countdown (Text Legacy)
+*  File: CountDownLegacy.cs
+*  Author: Deathwatch Gaming
+*  License: MIT
+*
+*/
+
+// Using - Engine - UI - System 
 using System.Collections;
 using System;
 using UnityEngine;
-using TMPro;
+using UnityEngine.UI;
 
 // For Example: Switch Scene
 // Using - Scene Management
 using UnityEngine.SceneManagement;
 
-// Namespace - DWG.CountDownTMP
-namespace DWG.CountDownTMP
+// Namespace - DWG.UBRS.CountDownLegacy
+namespace DWG.UBRS.CountDownLegacy
 {
 
-    // Public - Class - CountDownTMP
-    public class CountDownTMP : MonoBehaviour
+    // Public - Class - CountDownLegacy
+    public class CountDownLegacy : MonoBehaviour
     {
         // For Example: Switch Scene
         // Public - String - Scene To Load
         public string SceneToLoad;
 
-        // Public - Text Mesh Pro - Start Timer
-
-        // Specific within a UI.Canvas
-        public TextMeshProUGUI startTimer;
-
-        // Generic base/parent class for two types
-        //public TMP_Text startTimer;
+        // Public - Text - Start Timer
+        public Text startTimer;
 
         // Public - Bool - CountDown Enabled = True / Yes
         //public bool CountDownEnabled = true;
@@ -61,13 +65,13 @@ namespace DWG.CountDownTMP
                 // startTimer - gameObject - Set Active - True
                 startTimer.gameObject.SetActive(true);
 
-                // GetComponent - CountDownTMP - Enabled - True
-                GetComponent<CountDownTMP>().enabled = true;
+                // GetComponent - CountDownLegacy - Enabled - True
+                GetComponent<CountDownLegacy>().enabled = true;
 
                 // Debug - CountDown - Status
 
                 // Debug Log - CountDown Is Enabled
-                Debug.Log("The (TMP) countdown is enabled.");
+                Debug.Log("The (Legacy) countdown is enabled.");
 
             } // Close - If CountDown Enabled
 
@@ -78,11 +82,11 @@ namespace DWG.CountDownTMP
                 // startTimer - gameObject - Set Active - False
                 startTimer.gameObject.SetActive(false);
 
-                // GetComponent - CountDownTMP - Enabled - False
-                GetComponent<CountDownTMP>().enabled = false;
+                // GetComponent - CountDownLegacy - Enabled - False
+                GetComponent<CountDownLegacy>().enabled = false;
 
                 // Debug Log - CountDown Is Disabled
-                Debug.Log("The (TMP) countdown is disabled.");
+                Debug.Log("The (Legacy) countdown is disabled.");
 
             } // Close - Else If CountDown Is Disabled
 
@@ -111,7 +115,7 @@ namespace DWG.CountDownTMP
                 // Debug - CountDown - Status
 
                 // Debug Log - CountDown Is Running
-                Debug.Log("The (TMP) countdown is running.");
+                Debug.Log("The (Legacy) countdown is running.");
 
             } // Close - While - Count Down Time - Greater Than 0
 
@@ -134,7 +138,7 @@ namespace DWG.CountDownTMP
             startTimer.gameObject.SetActive(false);
 
             // Debug Log - The CountDown Completed
-            Debug.Log("The (TMP) countdown has completed.");
+            Debug.Log("The (Legacy) countdown has completed.");
 
             // Lets Do Something Just Here For Example
             Debug.Log("Ok, lets do something here.");
@@ -149,6 +153,6 @@ namespace DWG.CountDownTMP
 
         } // Close - Void - After Timer
 
-    } // Close - Public - Class - CountDownTMP
+    } // Close - Public - Class - CountDownLegacy
 
-} // Close - Namespace - DWG.CountDownTMP
+} // Close - Namespace - DWG.UBRS.CountDownLegacy
