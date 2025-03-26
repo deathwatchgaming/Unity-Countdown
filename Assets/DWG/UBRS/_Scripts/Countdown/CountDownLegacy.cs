@@ -20,7 +20,6 @@ using UnityEngine.SceneManagement;
 // Namespace - DWG.UBRS.CountDownLegacy
 namespace DWG.UBRS.CountDownLegacy
 {
-
     // Public - Class - CountDownLegacy
     public class CountDownLegacy : MonoBehaviour
     {
@@ -43,7 +42,6 @@ namespace DWG.UBRS.CountDownLegacy
         // Void Count Down Counter - Integer - Count
         void CountDownCounter(int count)
         {
-
             // Start Timer - Text - Count - To String
             startTimer.text = count.ToString();
 
@@ -58,7 +56,6 @@ namespace DWG.UBRS.CountDownLegacy
             // If CountDown Enabled
             if (CountDownEnabled == true)
             {
-
                 // Start Coroutine - Timer To Start
                 StartCoroutine(TimerToStart());
 
@@ -78,7 +75,6 @@ namespace DWG.UBRS.CountDownLegacy
             // Else If CountDown Is Disabled
             else if (CountDownEnabled == false)
             {
-
                 // startTimer - gameObject - Set Active - False
                 startTimer.gameObject.SetActive(false);
 
@@ -98,7 +94,6 @@ namespace DWG.UBRS.CountDownLegacy
         // Enumerator - Timer To Start
         IEnumerator TimerToStart()
         {
-
             // While - Count Down Time - Greater Than 0
             while (countdownTime > 0)
             {
@@ -133,7 +128,6 @@ namespace DWG.UBRS.CountDownLegacy
         // Void - After Timer
         void afterTimer()
         {
-
             // Start Timer - Game Object - Active Equal To False / No
             startTimer.gameObject.SetActive(false);
 
